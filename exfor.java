@@ -13,4 +13,7 @@ for(int j=6;j>i;j--)
 System.out.print("#");
 }
 System.out.println();
+
+
+// new changes
 }}}
